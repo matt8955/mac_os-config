@@ -17,7 +17,7 @@ fi
 read -p "Delete all files in $HOME/Documents (y/n)? " documents
 if [[ "$documents" == "y" ]]; then
   rm -rf $HOME/Documents/*
-  printf "%s\n" "Documents deleted."
+  printf "%s\n" "Documents deleted." 
 fi
 
 read -p "Delete all files in $HOME/Downloads (y/n)? " downloads
