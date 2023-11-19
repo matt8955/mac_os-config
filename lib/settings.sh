@@ -15,6 +15,9 @@ export HOMEBREW_CURL_RETRIES=3
 export BIT_WARDEN_APP_NAME="bw"
 export BIT_WARDEN_APP_URL="https://vault.bitwarden.com/download/?app=cli&platform=macos"
 
+export NORDPASS_APP_URL="https://downloads.npass.app/mac/arm/NordPass.dmg"
+export NORDPASS_APP_NAME="NordPass.app"
+export NORDPASS_VOLUME_NAME="NordPass"
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
